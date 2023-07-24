@@ -1,5 +1,3 @@
-# Hey there, I'm Anam!
-
 <h1 align="center">Hi 👋, I'm Muhammad Syariful Anam</h1>
 <h3 align="center">Berpasion pada Quality Assurance Tester</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
