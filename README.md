@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syariful Anam</h1>
-<h3 align="center">Passionate About Quality Assurance Tester And Automation Web, Android & Java Developers </h3>
+<h3 align="center">Passionate About Quality Assurance </h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syarifulanam&label=Profile%20views&color=0e75b6&style=flat" alt="syarifulanam" /> </p>
