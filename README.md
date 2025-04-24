@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syarifulanam&label=Profile%20views&color=0e75b6&style=flat" alt="syarifulanam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anam2818" target="blank"><img src="https://img.shields.io/twitter/follow/anam2818?logo=twitter&style=for-the-badge" alt="anam2818" /></a> </p>
-
 - 🌱 I’m currently learning **Software Developer and Quality Assurance**
 
 - 👨‍💻 All of my projects are available at [https://github.com/syarifulanam/portofolio](https://github.com/syarifulanam/portofolio)
