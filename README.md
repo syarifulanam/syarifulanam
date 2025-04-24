@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/anam2818" target="blank"><img src="https://img.shields.io/twitter/follow/anam2818?logo=twitter&style=for-the-badge" alt="anam2818" /></a> </p>
 
-- 🌱 I’m currently learning **Java Developers and Quality Assurance**
+- 🌱 I’m currently learning **Software Developer and Quality Assurance**
 
 - 👨‍💻 All of my projects are available at [https://github.com/syarifulanam/portofolio](https://github.com/syarifulanam/portofolio)
 
